@@ -159,10 +159,6 @@ https://github.com/Oponex/portfolio.git
 
 ## Contact
 
-GitHub
-
-https://github.com/YOUR_USERNAME
-
 Email
 
 amire.nuradil10@gmail.com
@@ -172,8 +168,6 @@ amire.nuradil10@gmail.com
 ## License
 
 This project was created for educational and portfolio purposes.
-
-All code was written by me as part of my frontend learning journey.
 
 Vehicle names, trademarks, and brand assets belong to their respective owners.
 
