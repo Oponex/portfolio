@@ -153,7 +153,7 @@ The goal was never to copy it, but to study professional UI/UX principles and ap
 
 🔗 **Live Website**
 
-Add your Netlify URL here.
+https://portfolio-of-15yo.netlify.app/
 
 ---
 
@@ -161,7 +161,7 @@ Add your Netlify URL here.
 
 🔗 **Source Code**
 
-Add your GitHub repository here.
+https://github.com/Oponex/portfolio.git
 
 ---
 
@@ -173,7 +173,7 @@ https://github.com/YOUR_USERNAME
 
 Email
 
-your@email.com
+amire.nuradil10@gmail.com
 
 ---
 
@@ -195,4 +195,4 @@ Every project you see here represents another step in my journey toward becoming
 
 I'm always learning, always improving, and always building.
 
-https://portfolio-of-15yo.netlify.app/
+h
