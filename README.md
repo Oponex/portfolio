@@ -80,14 +80,6 @@ whose guidance helped me understand modern frontend development, improve my codi
 portfolio/
 │
 ├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-│
 └── README.md
 ```
 
